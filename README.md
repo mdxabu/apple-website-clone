@@ -1,3 +1,3 @@
 # apple-website-clone
 
-here is the Preview of the Clone Website
+<h2><strong>Here is the Preview of the Clone Website</strong></h2>
